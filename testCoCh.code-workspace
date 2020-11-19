@@ -5,6 +5,9 @@
 		}
 	],
 	"settings": {
-		"dotnet-test-explorer.testProjectPath": "src/test"
+		"dotnet-test-explorer.testProjectPath": "src/test",
+		"files.watcherExclude": {
+			"**/target": true
+		}
 	}
 }
