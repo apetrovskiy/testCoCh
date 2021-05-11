@@ -1198,13 +1198,20 @@ build
 .bloop/CodeSignTest.json
 .bloop/CodeSignTest-test.json
 
-allure-results/*
-!allure-results/categories.json
 allure-reports/*
-**/.allure/*
+allure-results/*
+.nyc_output/*
+*result.json
+*container.json
 
 .nyc_output/*
 **/.nyc_output/*
 
 null/*
 **/null/*
+
+.noseids
+allure-results/*-result.json
+allure-results/*-container.json
+!allure-results/categories.json
+.allure/*
