@@ -1,0 +1,21 @@
+[ {
+  "uid" : "e371c658a220788d",
+  "name" : "test_buy_please[1-1-4-8-12]",
+  "time" : {
+    "start" : 1620798222431,
+    "stop" : 1620798222431,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28cbffbb7640b002",
+  "name" : "test_buy_please[2-4-4-5-28]",
+  "time" : {
+    "start" : 1620798222426,
+    "stop" : 1620798222426,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

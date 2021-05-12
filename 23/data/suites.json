@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "src.test.java.testCoCh.DSALearningSeries.BuyPlease",
+    "children" : [ {
+      "name" : "test_buy_please",
+      "children" : [ {
+        "name" : "test_buy_please[2-4-4-5-28]",
+        "uid" : "28cbffbb7640b002",
+        "parentUid" : "e39b6b3fab9e597477647d783ca3d16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620798222426,
+          "stop" : 1620798222426,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "2", "4", "28", "4", "5" ]
+      }, {
+        "name" : "test_buy_please[1-1-4-8-12]",
+        "uid" : "e371c658a220788d",
+        "parentUid" : "e39b6b3fab9e597477647d783ca3d16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620798222431,
+          "stop" : 1620798222431,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "1", "12", "4", "8" ]
+      } ],
+      "uid" : "e39b6b3fab9e597477647d783ca3d16e"
+    } ],
+    "uid" : "7054fc99cfcb8430335739df601f9613"
+  } ],
+  "name" : "suites"
+}
