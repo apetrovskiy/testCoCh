@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "test_buy_please[2-4-4-5-28]",
+    "uid" : "22bdf6ad3e0a5200",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620934600470,
+      "stop" : 1620934600470,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "2", "4", "28", "4", "5" ]
+  }, {
+    "name" : "test_buy_please[1-1-4-8-12]",
+    "uid" : "5c64e4752dd06d5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1620934600476,
+      "stop" : 1620934600476,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "1", "1", "12", "4", "8" ]
+  } ],
+  "name" : "behaviors"
+}
