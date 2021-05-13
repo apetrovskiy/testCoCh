@@ -1,0 +1,21 @@
+[ {
+  "uid" : "5536bb7278953d6e",
+  "name" : "test_buy_please[2-4-4-5-28]",
+  "time" : {
+    "start" : 1620949959639,
+    "stop" : 1620949959639,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bde5fba4659818c",
+  "name" : "test_buy_please[1-1-4-8-12]",
+  "time" : {
+    "start" : 1620949959643,
+    "stop" : 1620949959643,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
