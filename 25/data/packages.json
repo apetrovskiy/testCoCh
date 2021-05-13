@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.test.java.testCoCh.DSALearningSeries.BuyPlease.test_buy_please",
+    "children" : [ {
+      "name" : "test_buy_please[2-4-4-5-28]",
+      "uid" : "da76ea360199ad14",
+      "parentUid" : "0307c4acec7bd9d76987c6589e7f0076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620893165960,
+        "stop" : 1620893165960,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "2", "4", "28", "4", "5" ]
+    }, {
+      "name" : "test_buy_please[1-1-4-8-12]",
+      "uid" : "fa4bce857099af42",
+      "parentUid" : "0307c4acec7bd9d76987c6589e7f0076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620893165964,
+        "stop" : 1620893165965,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "1", "1", "12", "4", "8" ]
+    } ],
+    "uid" : "src.test.java.testCoCh.DSALearningSeries.BuyPlease.test_buy_please"
+  } ],
+  "name" : "packages"
+}
