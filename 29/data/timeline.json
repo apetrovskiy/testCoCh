@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az190-359",
+    "children" : [ {
+      "name" : "2240-MainThread",
+      "children" : [ {
+        "name" : "test_buy_please[2-4-4-5-28]",
+        "uid" : "cae0e8a77b639f70",
+        "parentUid" : "f9323be8ef753b0087cad3637e9d545c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621006703674,
+          "stop" : 1621006703674,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "2", "4", "28", "4", "5" ]
+      }, {
+        "name" : "test_buy_please[1-1-4-8-12]",
+        "uid" : "252c8f6903f1b039",
+        "parentUid" : "f9323be8ef753b0087cad3637e9d545c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621006703677,
+          "stop" : 1621006703677,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1", "1", "12", "4", "8" ]
+      } ],
+      "uid" : "f9323be8ef753b0087cad3637e9d545c"
+    } ],
+    "uid" : "77c311241ed759578569bc159970a5b1"
+  } ],
+  "name" : "timeline"
+}
